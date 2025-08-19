@@ -451,6 +451,7 @@ class NXSCompleteUnifiedSystem:
             "🏠 Real-Time AI Dashboard",
             "🏀 4 Basketball Courts",
             "🏟️ Main Dome Management", 
+            "🔥 Enhanced Heatmap",
             "🌾 4 Outdoor Fields",
             "🚶 Walking Track",
             "👥 Membership System",
